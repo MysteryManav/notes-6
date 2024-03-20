@@ -4,85 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "e7302acfbcbaaa17",
-        "type": "split",
+        "id": "2c1981ccb7866ce3",
+        "type": "tabs",
         "children": [
           {
-            "id": "31950c92d9cac1b9",
-            "type": "tabs",
-            "dimension": 73.25335215243473,
-            "children": [
-              {
-                "id": "c7cdc2c3da3a3485",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Chapters.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
+            "id": "8c4a89df32b1a500",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapters.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
-            ]
+            }
           },
           {
-            "id": "394386b9169b9f60",
-            "type": "split",
-            "dimension": 26.74664784756528,
-            "children": [
-              {
-                "id": "7544ff2fc1334a34",
-                "type": "tabs",
-                "dimension": 50,
-                "children": [
-                  {
-                    "id": "46735c604993101d",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Chapter 3/AES.md",
-                        "mode": "preview",
-                        "backlinks": false,
-                        "source": false
-                      }
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "af66c83d92dbbf13",
-                "type": "tabs",
-                "dimension": 50,
-                "children": [
-                  {
-                    "id": "6a15315873e69b17",
-                    "type": "leaf",
-                    "state": {
-                      "type": "graph",
-                      "state": {}
-                    }
-                  },
-                  {
-                    "id": "900584ad4565359f",
-                    "type": "leaf",
-                    "state": {
-                      "type": "kanban",
-                      "state": {
-                        "file": "Progress.md"
-                      }
-                    }
-                  }
-                ],
-                "currentTab": 1
-              }
-            ],
-            "direction": "horizontal"
+            "id": "ce6bf069c2615238",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ],
-        "direction": "vertical"
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Progress.md",
+                "file": "Chapters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Progress.md",
+                "file": "Chapters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progress.md"
+                "file": "Chapters.md"
               }
             }
           }
@@ -217,45 +163,42 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
-      "zk-prefixer:Create new unique note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "workspaces:Manage workspace layouts": false,
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "900584ad4565359f",
+  "active": "8c4a89df32b1a500",
   "lastOpenFiles": [
     "Chapters.md",
-    "Chapter 3/Topics.md",
-    "Chapter 3/Techniques for Improving A.E.S.md",
-    "Chapter 3/Advantages and Disadvantages.md",
-    "Chapter 3/ Key Expansion.md",
-    "Pasted image 20240319220507.png",
-    "Chapter 3/AES.md",
-    "Pasted image 20240319214815.png",
     "Progress.md",
-    "Untitled.md",
+    "Chapter 1/Fundamental Steps in D.I.P.canvas",
     "Excalidraw/Intensity.excalidraw.md",
+    "Chapter 1/Fundamental Steps in D.I.P.md",
+    "Chapter 1/Topics.md",
+    "Chapter 1/Introduction and Applications.md",
     "Chapter 2/Basic Intensity Level Transformations.md",
-    "Chapter 2/Topics.md",
+    "Excalidraw/Point Operation.md",
+    "Chapter 2/Sharpening Spatial Filters.md",
+    "Chapter 2/Sharpening Frequency Domain Filters.md",
+    "Chapter 2/Introduction to Fouries Transform and Frequency Domain Concepts.md",
+    "Chapter 2/Introduction.md",
     "Chapter 2/Basic Gray Level Transformations.md",
     "Excalidraw/Gray.excalidraw.md",
+    "Chapter 1/Light and Electro-Magnetic Spectrum.md",
+    "Chapter 1/Human Eye.md",
+    "Chapter 1/Components of Image Processing.canvas",
+    "Chapter 2/Topics.md",
     "Chapter 2/Spatial Domain Basics.md",
     "Excalidraw/Global.excalidraw.md",
     "Excalidraw/Mask Operation.excalidraw.md",
-    "Excalidraw/Point Operation.md",
+    "Untitled.md",
     "Excalidraw",
     "Excalidraw/Drawing 2024-03-18 21.11.29.excalidraw.md",
     "Excalidraw/Drawing 2024-03-18 21.11.11.excalidraw.md",
-    "Chapter 2/Introduction.md",
+    "Chapter 3/Topics.md",
     "Chapter 7/Topics.md",
-    "Chapter 1/Topics.md",
-    "Chapter 1/Light and Electro-Magnetic Spectrum.md",
-    "Chapter 1/Human Eye.md",
-    "Chapter 1/Simple Image Model.md",
-    "Chapter 1/Digital Image.md",
-    "Chapter 1/Fundamental Steps in D.I.P.canvas",
-    "Chapter 1/Components of Image Processing.canvas",
     "Excalidraw/Scripts/Downloaded/Set Font Family.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
@@ -273,6 +216,8 @@
     "Pasted image 20240317184451.png",
     "Pasted image 20240317182910.png",
     "Pasted image 20240317182738.png",
-    "Pasted image 20240317175319.png"
+    "Pasted image 20240317175319.png",
+    "Pasted image 20240317150309.png",
+    "Pasted image 20240315130914.png"
   ]
 }
