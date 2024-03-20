@@ -4,93 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e7302acfbcbaaa17",
-        "type": "split",
+        "id": "31950c92d9cac1b9",
+        "type": "tabs",
         "children": [
           {
-            "id": "31950c92d9cac1b9",
-            "type": "tabs",
-            "dimension": 71.3953488372093,
-            "children": [
-              {
-                "id": "d624ef73a5afce7f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Chapter 2/Basic Intensity Level Transformations.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "ccd8a287cb50f516",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/Intensity.excalidraw.md"
-                  }
+            "id": "d624ef73a5afce7f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Chapter 1/Fundamental Steps in D.I.P.canvas",
+                "viewState": {
+                  "x": -48.805609859297675,
+                  "y": 717.4009046269755,
+                  "zoom": -1.252348626865591
                 }
               }
-            ]
+            }
           },
           {
-            "id": "394386b9169b9f60",
-            "type": "split",
-            "dimension": 28.604651162790695,
-            "children": [
-              {
-                "id": "7544ff2fc1334a34",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "46735c604993101d",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Chapter 2/Basic Intensity Level Transformations.md",
-                        "mode": "source",
-                        "backlinks": false,
-                        "source": false
-                      }
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "af66c83d92dbbf13",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "6a15315873e69b17",
-                    "type": "leaf",
-                    "state": {
-                      "type": "graph",
-                      "state": {}
-                    }
-                  },
-                  {
-                    "id": "900584ad4565359f",
-                    "type": "leaf",
-                    "state": {
-                      "type": "kanban",
-                      "state": {
-                        "file": "Progress.md"
-                      }
-                    }
-                  }
-                ],
-                "currentTab": 1
+            "id": "ccd8a287cb50f516",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Intensity.excalidraw.md"
               }
-            ],
-            "direction": "horizontal"
+            }
           }
-        ],
-        "direction": "vertical"
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Progress.md",
+                "file": "Chapter 1/Fundamental Steps in D.I.P.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Progress.md",
+                "file": "Chapter 1/Fundamental Steps in D.I.P.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progress.md"
+                "file": "Chapter 1/Fundamental Steps in D.I.P.canvas"
               }
             }
           }
@@ -231,27 +173,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "900584ad4565359f",
+  "active": "d624ef73a5afce7f",
   "lastOpenFiles": [
-    "Excalidraw/Point Operation.md",
+    "Excalidraw/Intensity.excalidraw.md",
+    "Chapter 1/Fundamental Steps in D.I.P.md",
+    "Chapter 1/Fundamental Steps in D.I.P.canvas",
+    "Chapter 1/Topics.md",
+    "Chapter 1/Introduction and Applications.md",
     "Chapter 2/Basic Intensity Level Transformations.md",
+    "Progress.md",
+    "Excalidraw/Point Operation.md",
     "Chapter 2/Sharpening Spatial Filters.md",
     "Chapter 2/Sharpening Frequency Domain Filters.md",
     "Chapter 2/Introduction to Fouries Transform and Frequency Domain Concepts.md",
     "Chapter 2/Introduction.md",
     "Chapter 2/Basic Gray Level Transformations.md",
     "Excalidraw/Gray.excalidraw.md",
-    "Excalidraw/Intensity.excalidraw.md",
-    "Chapter 1/Fundamental Steps in D.I.P.canvas",
-    "Chapter 1/Topics.md",
     "Chapter 1/Light and Electro-Magnetic Spectrum.md",
     "Chapter 1/Human Eye.md",
-    "Chapter 1/Fundamental Steps in D.I.P.md",
     "Chapter 1/Components of Image Processing.canvas",
     "Chapter 2/Topics.md",
     "Chapter 2/Spatial Domain Basics.md",
     "Chapters.md",
-    "Progress.md",
     "Excalidraw/Global.excalidraw.md",
     "Excalidraw/Mask Operation.excalidraw.md",
     "Untitled.md",
@@ -260,8 +203,6 @@
     "Excalidraw/Drawing 2024-03-18 21.11.11.excalidraw.md",
     "Chapter 3/Topics.md",
     "Chapter 7/Topics.md",
-    "Chapter 1/Simple Image Model.md",
-    "Chapter 1/Digital Image.md",
     "Excalidraw/Scripts/Downloaded/Set Font Family.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
