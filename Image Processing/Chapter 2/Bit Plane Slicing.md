@@ -1,0 +1,4 @@
+- Every 8-bit image, is composed of 1-bit planes ranging from bit-plane 0 to bit-plane 7.
+- Bit-plane '0' is called the *Least Significant Bit* (L.S.B)
+- Bit-plane '7' is called the *Most Significant Bit* (M.S.B)
+- The higher order bits contains majority of visual image data. Bit plane slicing is used for image compression
