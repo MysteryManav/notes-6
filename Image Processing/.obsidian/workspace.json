@@ -4,32 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "2c1981ccb7866ce3",
+        "id": "32743b1c03891a05",
         "type": "tabs",
+        "dimension": 73.1638418079096,
         "children": [
           {
-            "id": "8c4a89df32b1a500",
+            "id": "eb62182007acccb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters.md",
-                "mode": "preview",
+                "file": "Chapter 1/Light and Electro-Magnetic Spectrum.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          }
+        ]
+      },
+      {
+        "id": "faad01ab51e858ae",
+        "type": "split",
+        "dimension": 26.836158192090398,
+        "children": [
+          {
+            "id": "2c1981ccb7866ce3",
+            "type": "tabs",
+            "dimension": 68.5785536159601,
+            "children": [
+              {
+                "id": "8c4a89df32b1a500",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Chapters.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
           },
           {
-            "id": "ce6bf069c2615238",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
+            "id": "104e0c7ae9560afa",
+            "type": "tabs",
+            "dimension": 31.421446384039903,
+            "children": [
+              {
+                "id": "ce6bf069c2615238",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "248a491ee3ec40d8",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "Progress.md"
+                  }
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -115,6 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chapter 1/Light and Electro-Magnetic Spectrum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chapter 1/Light and Electro-Magnetic Spectrum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +188,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Chapter 1/Light and Electro-Magnetic Spectrum.md"
+              }
             }
           }
         ],
@@ -166,27 +215,29 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "ce6bf069c2615238",
+  "active": "eb62182007acccb4",
   "lastOpenFiles": [
-    "Progress.md",
-    "Chapters.md",
-    "Chapter 1/Fundamental Steps in D.I.P.canvas",
-    "Excalidraw/Intensity.excalidraw.md",
-    "Chapter 1/Fundamental Steps in D.I.P.md",
+    "Pasted image 20240320093235.png",
     "Chapter 1/Topics.md",
-    "Chapter 1/Introduction and Applications.md",
+    "Chapter 1/Light and Electro-Magnetic Spectrum.md",
+    "Chapters.md",
+    "Chapter 2/Topics.md",
+    "Chapter 1/Digital Image.md",
+    "Chapter 2/Basic Gray Level Transformations.md",
     "Chapter 2/Basic Intensity Level Transformations.md",
+    "Excalidraw/Intensity.excalidraw.md",
+    "Excalidraw/Gray.excalidraw.md",
+    "Chapter 1/Human Eye.md",
+    "Chapter 1/Fundamental Steps in D.I.P.canvas",
+    "Chapter 1/Components of Image Processing.canvas",
+    "Progress.md",
+    "Chapter 1/Fundamental Steps in D.I.P.md",
+    "Chapter 1/Introduction and Applications.md",
     "Excalidraw/Point Operation.md",
     "Chapter 2/Sharpening Spatial Filters.md",
     "Chapter 2/Sharpening Frequency Domain Filters.md",
     "Chapter 2/Introduction to Fouries Transform and Frequency Domain Concepts.md",
     "Chapter 2/Introduction.md",
-    "Chapter 2/Basic Gray Level Transformations.md",
-    "Excalidraw/Gray.excalidraw.md",
-    "Chapter 1/Light and Electro-Magnetic Spectrum.md",
-    "Chapter 1/Human Eye.md",
-    "Chapter 1/Components of Image Processing.canvas",
-    "Chapter 2/Topics.md",
     "Chapter 2/Spatial Domain Basics.md",
     "Excalidraw/Global.excalidraw.md",
     "Excalidraw/Mask Operation.excalidraw.md",
@@ -195,7 +246,6 @@
     "Excalidraw/Drawing 2024-03-18 21.11.29.excalidraw.md",
     "Excalidraw/Drawing 2024-03-18 21.11.11.excalidraw.md",
     "Chapter 3/Topics.md",
-    "Chapter 7/Topics.md",
     "Excalidraw/Scripts/Downloaded/Set Font Family.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
