@@ -1,0 +1,2 @@
+- The 'AND' operator is used to mask out part of an image
+- Parts of another image can be added using 'OR' operator

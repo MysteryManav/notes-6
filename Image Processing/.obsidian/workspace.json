@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 1/Light and Electro-Magnetic Spectrum.md",
+                "file": "Chapter 2/Topics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 1/Light and Electro-Magnetic Spectrum.md",
+                "file": "Chapter 2/Topics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 1/Light and Electro-Magnetic Spectrum.md",
+                "file": "Chapter 2/Topics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 1/Light and Electro-Magnetic Spectrum.md"
+                "file": "Chapter 2/Topics.md"
               }
             }
           }
@@ -217,35 +217,38 @@
   },
   "active": "eb62182007acccb4",
   "lastOpenFiles": [
-    "Pasted image 20240320093235.png",
-    "Chapter 1/Topics.md",
-    "Chapter 1/Light and Electro-Magnetic Spectrum.md",
     "Chapters.md",
-    "Chapter 2/Topics.md",
+    "Chapter 1/Topics.md",
+    "Chapter 1/Types of Digital Image.md",
+    "Pasted image 20240320183111.png",
+    "Pasted image 20240320183003.png",
+    "Pasted image 20240320182817.png",
+    "Chapter 1/Logical Operations.md",
+    "Chapter 1/Introduction and Applications.md",
+    "Chapter 1/Light and Electro-Magnetic Spectrum.md",
+    "Chapter 1/Human Eye.md",
+    "Chapter 1/Fundamental Steps in D.I.P.canvas",
+    "Chapter 1/Components of Image Processing.canvas",
+    "Chapter 1/Distance Measures.md",
+    "Chapter 1/Regions and Boundaries.md",
+    "Chapter 1/Adjacency and Connectivity.md",
+    "Chapter 1/Neighbours of Pixel.md",
+    "Excalidraw/Neigbours.excalidraw.md",
     "Chapter 1/Digital Image.md",
+    "Chapter 1/Sampling and Quantisation.md",
+    "Pasted image 20240320093235.png",
+    "Chapter 2/Topics.md",
     "Chapter 2/Basic Gray Level Transformations.md",
     "Chapter 2/Basic Intensity Level Transformations.md",
     "Excalidraw/Intensity.excalidraw.md",
     "Excalidraw/Gray.excalidraw.md",
-    "Chapter 1/Human Eye.md",
-    "Chapter 1/Fundamental Steps in D.I.P.canvas",
-    "Chapter 1/Components of Image Processing.canvas",
     "Progress.md",
     "Chapter 1/Fundamental Steps in D.I.P.md",
-    "Chapter 1/Introduction and Applications.md",
     "Excalidraw/Point Operation.md",
     "Chapter 2/Sharpening Spatial Filters.md",
     "Chapter 2/Sharpening Frequency Domain Filters.md",
     "Chapter 2/Introduction to Fouries Transform and Frequency Domain Concepts.md",
-    "Chapter 2/Introduction.md",
-    "Chapter 2/Spatial Domain Basics.md",
-    "Excalidraw/Global.excalidraw.md",
-    "Excalidraw/Mask Operation.excalidraw.md",
-    "Untitled.md",
     "Excalidraw",
-    "Excalidraw/Drawing 2024-03-18 21.11.29.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-18 21.11.11.excalidraw.md",
-    "Chapter 3/Topics.md",
     "Excalidraw/Scripts/Downloaded/Set Font Family.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
@@ -261,10 +264,6 @@
     "Revision/Chapter 1.canvas",
     "Pasted image 20240317184516.png",
     "Pasted image 20240317184451.png",
-    "Pasted image 20240317182910.png",
-    "Pasted image 20240317182738.png",
-    "Pasted image 20240317175319.png",
-    "Pasted image 20240317150309.png",
-    "Pasted image 20240315130914.png"
+    "Pasted image 20240317182910.png"
   ]
 }

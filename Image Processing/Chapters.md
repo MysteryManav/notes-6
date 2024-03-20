@@ -2,7 +2,7 @@
 
 | S. No. | Chapter Name                                                  | Status                                  |
 | ------ | ------------------------------------------------------------- | --------------------------------------- |
-| 1      | [[Chapter 1/Topics\|Digital Image Fundamentals]]              | <font style="color:yellow">DOING</font> |
+| 1      | [[Chapter 1/Topics\|Digital Image Fundamentals]]              | <font style="color:GREEN">DONE</font>   |
 | 2      | [[Chapter 2/Topics\|Image Enhancements]]                      | <font style="color:yellow">DOING</font> |
 | 3      | [[Chapter 3/Topics\|Image Restoration]]                       | <font style="color:orange">TODO</font>  |
 | 4      | [[Chapter 4/Topics\|Colour Image Processing]]                 | <font style="color:orange">TODO</font>  |
