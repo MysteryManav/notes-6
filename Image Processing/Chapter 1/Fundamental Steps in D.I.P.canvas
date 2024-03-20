@@ -1,18 +1,37 @@
 {
 	"nodes":[
-		{"id":"b36137429589d0f5","type":"text","text":"Wavelets and Multi-resolution processing","x":-100,"y":-180,"width":250,"height":60},
-		{"id":"bb336e5de8141487","type":"text","text":"Colour Image Processing","x":-440,"y":-180,"width":250,"height":60},
-		{"id":"a4548cca61abf7cd","type":"text","text":"Image Restoration","x":-440,"y":0,"width":250,"height":60},
-		{"id":"7bfd2de2291fa1d6","type":"text","text":"Image Enhancement","x":-440,"y":160,"width":250,"height":60},
-		{"id":"99be38a5b11624d6","type":"text","text":"Image Acquisition","x":-440,"y":320,"width":250,"height":60},
 		{"id":"1e871aade21f6ca7","type":"text","text":"Compression","x":240,"y":-180,"width":250,"height":60},
-		{"id":"b01ca89334921272","type":"text","text":"Morphological Processing","x":600,"y":-180,"width":250,"height":60},
-		{"id":"87014793ed5779ea","type":"text","text":"Segmentation","x":600,"y":0,"width":250,"height":60},
-		{"id":"54f3c2aeff1b3f70","type":"text","text":"Representation and Description","x":600,"y":160,"width":250,"height":60},
-		{"id":"32f2c1f8a64cf8ce","type":"text","text":"Object Recognition","x":600,"y":320,"width":250,"height":60},
-		{"id":"c56087fbdc53d0ec","type":"text","text":"# Knowledge Base","x":-100,"y":0,"width":590,"height":380},
-		{"id":"e432a3eff44fbc10","x":-515,"y":-620,"width":400,"height":400,"type":"file","file":"Chapter 1/Fundamental Steps in D.I.P.md","subpath":"#Colour Image Processing"},
-		{"id":"c4964ef24a4637d7","x":-100,"y":-620,"width":400,"height":400,"type":"file","file":"Chapter 1/Fundamental Steps in D.I.P.md","subpath":"#Wavelets and Multi-resolution Processing"}
+		{"id":"c56087fbdc53d0ec","type":"text","text":"# Knowledge Base","x":-360,"y":0,"width":1040,"height":1070},
+		{"id":"bb336e5de8141487","type":"text","text":"Colour Image Processing","x":-690,"y":-180,"width":250,"height":60},
+		{"id":"e432a3eff44fbc10","type":"file","file":"Chapter 1/Fundamental Steps in D.I.P.md","subpath":"#Colour Image Processing","x":-765,"y":-720,"width":400,"height":400},
+		{"id":"b36137429589d0f5","type":"text","text":"Wavelets and Multi-resolution processing","x":-225,"y":-180,"width":250,"height":60},
+		{"id":"c4964ef24a4637d7","type":"file","file":"Chapter 1/Fundamental Steps in D.I.P.md","subpath":"#Wavelets and Multi-resolution Processing","x":-300,"y":-720,"width":400,"height":400},
+		{"id":"213182ce1845200b","x":650,"y":-720,"width":400,"height":400,"type":"file","file":"Chapter 1/Fundamental Steps in D.I.P.md","subpath":"#Morphological Processing"},
+		{"id":"519379a542649f2e","x":165,"y":-720,"width":400,"height":400,"type":"file","file":"Chapter 1/Fundamental Steps in D.I.P.md","subpath":"#Image Compression"},
+		{"id":"b01ca89334921272","type":"text","text":"Morphological Processing","x":725,"y":-180,"width":250,"height":60},
+		{"id":"87014793ed5779ea","type":"text","text":"Segmentation","x":725,"y":30,"width":250,"height":60},
+		{"id":"0cfaa4b68c6e2250","x":1120,"y":-140,"width":400,"height":400,"type":"file","file":"Chapter 1/Fundamental Steps in D.I.P.md","subpath":"#Image Segmentation"},
+		{"id":"7bc9a8067f9290e5","x":1120,"y":350,"width":400,"height":400,"type":"file","file":"Chapter 1/Fundamental Steps in D.I.P.md","subpath":"#Representation and Description"},
+		{"id":"54f3c2aeff1b3f70","type":"text","text":"Representation and Description","x":725,"y":520,"width":250,"height":60},
+		{"id":"b421e1e5e77739b0","x":1120,"y":840,"width":400,"height":400,"type":"file","file":"Chapter 1/Fundamental Steps in D.I.P.md","subpath":"#Object Detection and Recognition"},
+		{"id":"32f2c1f8a64cf8ce","type":"text","text":"Object Recognition","x":725,"y":1010,"width":250,"height":60},
+		{"id":"7bfd2de2291fa1d6","type":"text","text":"Image Enhancement","x":-690,"y":520,"width":250,"height":60},
+		{"id":"99be38a5b11624d6","type":"text","text":"Image Acquisition","x":-690,"y":1010,"width":250,"height":60},
+		{"id":"a4548cca61abf7cd","type":"text","text":"Image Restoration","x":-690,"y":30,"width":250,"height":60},
+		{"id":"0fe2e09bb9d25af4","x":-1280,"y":-140,"width":400,"height":400,"type":"file","file":"Chapter 1/Fundamental Steps in D.I.P.md","subpath":"#Image Restoration"},
+		{"id":"16e1e68819ad0ff9","x":-1280,"y":350,"width":400,"height":400,"type":"file","file":"Chapter 1/Fundamental Steps in D.I.P.md","subpath":"#Image Enhancement"},
+		{"id":"9438f6e93d41c0dc","x":-1280,"y":840,"width":400,"height":400,"type":"file","file":"Chapter 1/Fundamental Steps in D.I.P.md","subpath":"#Image Acquisition"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"a4a3016b2529015f","fromNode":"bb336e5de8141487","fromSide":"top","toNode":"e432a3eff44fbc10","toSide":"bottom"},
+		{"id":"0fd670bc7942d3f9","fromNode":"b36137429589d0f5","fromSide":"top","toNode":"c4964ef24a4637d7","toSide":"bottom"},
+		{"id":"5f2a2bba29e83cd1","fromNode":"1e871aade21f6ca7","fromSide":"top","toNode":"519379a542649f2e","toSide":"bottom"},
+		{"id":"a9007e6cbd715d95","fromNode":"b01ca89334921272","fromSide":"top","toNode":"213182ce1845200b","toSide":"bottom"},
+		{"id":"7060a307b7cff8c6","fromNode":"99be38a5b11624d6","fromSide":"left","toNode":"9438f6e93d41c0dc","toSide":"right"},
+		{"id":"9255154a2b7394c3","fromNode":"7bfd2de2291fa1d6","fromSide":"left","toNode":"16e1e68819ad0ff9","toSide":"right"},
+		{"id":"006f377cce2df31b","fromNode":"a4548cca61abf7cd","fromSide":"left","toNode":"0fe2e09bb9d25af4","toSide":"right"},
+		{"id":"577c098ad7a29806","fromNode":"87014793ed5779ea","fromSide":"right","toNode":"0cfaa4b68c6e2250","toSide":"left"},
+		{"id":"1592da5adb8191f4","fromNode":"54f3c2aeff1b3f70","fromSide":"right","toNode":"7bc9a8067f9290e5","toSide":"left"},
+		{"id":"b7d9c9cc845c808a","fromNode":"32f2c1f8a64cf8ce","fromSide":"right","toNode":"b421e1e5e77739b0","toSide":"left"}
+	]
 }
