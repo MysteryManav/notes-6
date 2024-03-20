@@ -1,0 +1,5 @@
+- An image $f(m, n)$, described in 2-D discreet space is derived from an analog image $f(x, y)$ through a sampling process called *Digitization*
+- The 2D continuous image $f(x, y)$ is divided into 'M' rows and 'N' columns. The intersection of a row and column is called *pixel*. The number 'b' (bytes) required to store a digital image, is expressed as: $b=M\times N\times K$
+- Due to the processing storage and hardware consideration, the number of graylevels are typically an integer power of 2 $$L=2^k$$ k is expressed in bits
+- When an image can have $2^k$ graylevels, it is called a 'k-bit' image
+- For a L=256 graylevel image, it is a '8-bit' image

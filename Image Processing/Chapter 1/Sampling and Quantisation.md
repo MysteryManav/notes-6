@@ -1,0 +1,3 @@
+- An image may be continuous with respect to the $(x, y)$ co-ordinates and also in amplitude. To convert it into digital from, we have to sample the function in both co-ordinates and amplitudes
+- Digitalising the co-ordinate values, is called **Sampling**
+- Digitalising the amplitude values, is called **Quantisation**

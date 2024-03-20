@@ -1,7 +1,7 @@
 
-| Topic Name                               | Status                                  |
-| ---------------------------------------- | --------------------------------------- |
-| [[Chapter 2/Introduction\|Introduction]] | <font style="color:yellow">DOING</font> |
+| Topic Name                               | Status                                |
+| ---------------------------------------- | ------------------------------------- |
+| [[Chapter 2/Introduction\|Introduction]] | <font style="color:green">DONE</font> |
 
 
 - In Spatial Domain:
