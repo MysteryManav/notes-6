@@ -1,0 +1,4 @@
+- It is the assurance that someone cannot deny something.
+- Typically, it refers to the ability to ensure that a communication cannot deny the authenticity of their signature on a document or the sending of a message that they originated.
+- **Non-Repudiation-Origin**: Proof that message was sent by the specified party.
+- **Non-Repudiation-Destination**: Proof that message was received by the specified party.

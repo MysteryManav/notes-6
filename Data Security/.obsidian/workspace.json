@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "c95376152a3b52ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7302acfbcbaaa17",
+        "type": "split",
+        "children": [
+          {
+            "id": "31950c92d9cac1b9",
+            "type": "tabs",
+            "dimension": 73.25335215243473,
+            "children": [
+              {
+                "id": "c7cdc2c3da3a3485",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Chapters.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "394386b9169b9f60",
+            "type": "split",
+            "dimension": 26.74664784756528,
+            "children": [
+              {
+                "id": "7544ff2fc1334a34",
+                "type": "tabs",
+                "dimension": 50,
+                "children": [
+                  {
+                    "id": "46735c604993101d",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Chapter 3/AES.md",
+                        "mode": "preview",
+                        "backlinks": false,
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "af66c83d92dbbf13",
+                "type": "tabs",
+                "dimension": 50,
+                "children": [
+                  {
+                    "id": "6a15315873e69b17",
+                    "type": "leaf",
+                    "state": {
+                      "type": "graph",
+                      "state": {}
+                    }
+                  },
+                  {
+                    "id": "900584ad4565359f",
+                    "type": "leaf",
+                    "state": {
+                      "type": "kanban",
+                      "state": {
+                        "file": "Progress.md"
+                      }
+                    }
+                  }
+                ],
+                "currentTab": 1
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "188c2016fed82029",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc09f08ba958f7f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37dbc205bf78255e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea86db26272144a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ca9d1ac3965210d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "6029a2b20a8478e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e710c33d0d7c4bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "484a5e6e3021dccc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "88386b4e2d397ecc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a987b67235d77388",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Progress.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6bc0f34a6bf196ef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Progress.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "26b628d44c909a70",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Progress.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "zk-prefixer:Create new unique note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "900584ad4565359f",
+  "lastOpenFiles": [
+    "Chapters.md",
+    "Chapter 3/Topics.md",
+    "Chapter 3/Techniques for Improving A.E.S.md",
+    "Chapter 3/Advantages and Disadvantages.md",
+    "Chapter 3/ Key Expansion.md",
+    "Pasted image 20240319220507.png",
+    "Chapter 3/AES.md",
+    "Pasted image 20240319214815.png",
+    "Progress.md",
+    "Untitled.md",
+    "Excalidraw/Intensity.excalidraw.md",
+    "Chapter 2/Basic Intensity Level Transformations.md",
+    "Chapter 2/Topics.md",
+    "Chapter 2/Basic Gray Level Transformations.md",
+    "Excalidraw/Gray.excalidraw.md",
+    "Chapter 2/Spatial Domain Basics.md",
+    "Excalidraw/Global.excalidraw.md",
+    "Excalidraw/Mask Operation.excalidraw.md",
+    "Excalidraw/Point Operation.md",
+    "Excalidraw",
+    "Excalidraw/Drawing 2024-03-18 21.11.29.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-18 21.11.11.excalidraw.md",
+    "Chapter 2/Introduction.md",
+    "Chapter 7/Topics.md",
+    "Chapter 1/Topics.md",
+    "Chapter 1/Light and Electro-Magnetic Spectrum.md",
+    "Chapter 1/Human Eye.md",
+    "Chapter 1/Simple Image Model.md",
+    "Chapter 1/Digital Image.md",
+    "Chapter 1/Fundamental Steps in D.I.P.canvas",
+    "Chapter 1/Components of Image Processing.canvas",
+    "Excalidraw/Scripts/Downloaded/Set Font Family.svg",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Chapter 7",
+    "Chapter 6",
+    "Chapter 5",
+    "Chapter 3",
+    "Chapter 4",
+    "Chapter 2/Using Artihmetic",
+    "Chapter 2",
+    "Pasted image 20240317191943.png",
+    "Pasted image 20240317191920.png",
+    "Revision/Chapter 1.canvas",
+    "Pasted image 20240317184516.png",
+    "Pasted image 20240317184451.png",
+    "Pasted image 20240317182910.png",
+    "Pasted image 20240317182738.png",
+    "Pasted image 20240317175319.png"
+  ]
+}

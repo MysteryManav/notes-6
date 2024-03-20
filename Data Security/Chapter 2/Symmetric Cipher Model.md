@@ -1,0 +1,4 @@
+- **Plain Text**: Original Message
+- **Cipher Text**: Coded Message
+- **Enciphering/Encryption**: Process of converting plain text to cipher text
+- **Deciphering/Decryption**: Restoring plain text from cipher text

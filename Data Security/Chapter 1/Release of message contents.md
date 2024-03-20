@@ -1,0 +1,2 @@
+- A telephone conversation, an email message and a transferred file may contain sensitive or confidential information.
+- Should prevent an opponent from learning contents of these transmission.

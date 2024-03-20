@@ -1,0 +1,6 @@
+- An improvement to Caesar Cipher
+- Instead of shifting alphabets by some number, this scheme uses some permutation of letters in alphabet
+- Sender and Receiver decide on a randomly selected permutation of letters of alphabet
+- **Attacks on Mono-Alphabetic Cipher**:
+	- If the nature of plain-text is known, then regularities of a language can be exploited
+	- Relative frequency of letters can be determined and compared to a standard frequency

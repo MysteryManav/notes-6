@@ -1,0 +1,1 @@
+A **masquerade** attack takes place when one entity pretends to be a different entity.

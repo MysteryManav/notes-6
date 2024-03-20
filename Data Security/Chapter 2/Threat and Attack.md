@@ -1,0 +1,2 @@
+- **Threat**: A potential for violation of security, which exists when there is a circumstance, capability, action, or event that could crack security and cause harm. That is, a threat is a possible danger that might exploit a vulnerability
+- **Attack**: A violation on system security that derives from an intelligent threat; that is, an intelligent act that is a calculated attempt to avoid security services and violate the security policy of a system

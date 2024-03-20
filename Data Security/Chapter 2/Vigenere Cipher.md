@@ -1,0 +1,3 @@
+- Involves creating a matrix of size $26 \times 26$ where each row and column are 26 alphabets each shifted by a random letter
+- The row of the matrix correspond to the key and column correspond to the plain-text
+- This matrix is then used to find the cipher-text

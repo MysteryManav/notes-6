@@ -1,0 +1,9 @@
+- Involves replacing each letter of the alphabet with the letter standing three places further down the alphabet
+- **Encryption**:
+	- $C = E(k, p)\;mod\;26$
+- **Decryption**:
+	- $P = D(k, c)\;mod\;26$
+- **Brute Force Attack on Caesar Cipher**:
+	- Encryption and Decryption Algorithms are known
+	- Only 25 keys to try
+	- Language of plain-text is known and easily recognisable

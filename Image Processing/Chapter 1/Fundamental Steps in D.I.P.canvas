@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"b36137429589d0f5","type":"text","text":"Wavelets and Multi-resolution processing","x":-100,"y":-180,"width":250,"height":60},
+		{"id":"bb336e5de8141487","type":"text","text":"Colour Image Processing","x":-440,"y":-180,"width":250,"height":60},
+		{"id":"a4548cca61abf7cd","type":"text","text":"Image Restoration","x":-440,"y":0,"width":250,"height":60},
+		{"id":"7bfd2de2291fa1d6","type":"text","text":"Image Enhancement","x":-440,"y":160,"width":250,"height":60},
+		{"id":"99be38a5b11624d6","type":"text","text":"Image Acquisition","x":-440,"y":320,"width":250,"height":60},
+		{"id":"1e871aade21f6ca7","type":"text","text":"Compression","x":240,"y":-180,"width":250,"height":60},
+		{"id":"b01ca89334921272","type":"text","text":"Morphological Processing","x":600,"y":-180,"width":250,"height":60},
+		{"id":"87014793ed5779ea","type":"text","text":"Segmentation","x":600,"y":0,"width":250,"height":60},
+		{"id":"54f3c2aeff1b3f70","type":"text","text":"Representation and Description","x":600,"y":160,"width":250,"height":60},
+		{"id":"32f2c1f8a64cf8ce","type":"text","text":"Object Recognition","x":600,"y":320,"width":250,"height":60},
+		{"id":"c56087fbdc53d0ec","type":"text","text":"# Knowledge Base","x":-100,"y":0,"width":590,"height":380},
+		{"id":"e432a3eff44fbc10","x":-515,"y":-620,"width":400,"height":400,"type":"file","file":"Chapter 1/Fundamental Steps in D.I.P.md","subpath":"#Colour Image Processing"},
+		{"id":"c4964ef24a4637d7","x":-100,"y":-620,"width":400,"height":400,"type":"file","file":"Chapter 1/Fundamental Steps in D.I.P.md","subpath":"#Wavelets and Multi-resolution Processing"}
+	],
+	"edges":[]
+}

@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"204395a81e6fe499","type":"text","text":"Computer","x":-120,"y":-260,"width":250,"height":60},
+		{"id":"c08c652514b0a154","type":"text","text":"Specialised I.P Software","x":-120,"y":-40,"width":250,"height":60},
+		{"id":"9fb848f0e893ed3d","type":"text","text":"Hard Copy","x":-500,"y":-40,"width":250,"height":60},
+		{"id":"7753a06db4e208b3","type":"text","text":"Image Sensor","x":-120,"y":220,"width":250,"height":60},
+		{"id":"3c817663529cb1f8","type":"text","text":"Image Display","x":-625,"y":-260,"width":250,"height":60},
+		{"id":"3023255f513f736d","type":"text","text":"Mass Storage","x":385,"y":-260,"width":250,"height":60},
+		{"id":"cf4b3fd02c95063f","type":"file","file":"Chapter 1/Components of Image Processing.md","subpath":"#Image Sensor","x":-195,"y":380,"width":400,"height":400},
+		{"id":"35510e93aa665f96","type":"file","file":"Chapter 1/Components of Image Processing.md","subpath":"#Software and Mass Storage","x":760,"y":-260,"width":400,"height":400},
+		{"id":"a165d4e5f045cf98","type":"text","text":"I.P Software","x":260,"y":-40,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"b2ebfea8b06e4d58","fromNode":"204395a81e6fe499","fromSide":"bottom","toNode":"c08c652514b0a154","toSide":"top"},
+		{"id":"86815fc407920ce7","fromNode":"7753a06db4e208b3","fromSide":"top","toNode":"c08c652514b0a154","toSide":"bottom"},
+		{"id":"603ca81911777017","fromNode":"c08c652514b0a154","fromSide":"bottom","toNode":"7753a06db4e208b3","toSide":"top"},
+		{"id":"76b6e2f2f2e3591d","fromNode":"c08c652514b0a154","fromSide":"top","toNode":"204395a81e6fe499","toSide":"bottom"},
+		{"id":"be8f5eca5f8a6138","fromNode":"9fb848f0e893ed3d","fromSide":"top","toNode":"204395a81e6fe499","toSide":"left"},
+		{"id":"55663b9b033e9ecb","fromNode":"204395a81e6fe499","fromSide":"left","toNode":"9fb848f0e893ed3d","toSide":"right"},
+		{"id":"4a7bf2be6aacc3c3","fromNode":"3c817663529cb1f8","fromSide":"right","toNode":"204395a81e6fe499","toSide":"left"},
+		{"id":"ca191dc20472c742","fromNode":"204395a81e6fe499","fromSide":"left","toNode":"3c817663529cb1f8","toSide":"right"},
+		{"id":"bfe2bc355242ce6c","fromNode":"204395a81e6fe499","fromSide":"right","toNode":"3023255f513f736d","toSide":"left"},
+		{"id":"eafc70c7922b1d59","fromNode":"204395a81e6fe499","fromSide":"right","toNode":"a165d4e5f045cf98","toSide":"left"},
+		{"id":"52da849c43c83058","fromNode":"a165d4e5f045cf98","fromSide":"top","toNode":"204395a81e6fe499","toSide":"right"},
+		{"id":"1a8efac7e7f785ee","fromNode":"3023255f513f736d","fromSide":"left","toNode":"204395a81e6fe499","toSide":"right"},
+		{"id":"cd32d310f0ccd309","fromNode":"7753a06db4e208b3","fromSide":"bottom","toNode":"cf4b3fd02c95063f","toSide":"top"},
+		{"id":"550f4cb2aceaac92","fromNode":"a165d4e5f045cf98","fromSide":"right","toNode":"35510e93aa665f96","toSide":"left"},
+		{"id":"41333d47016162b6","fromNode":"3023255f513f736d","fromSide":"right","toNode":"35510e93aa665f96","toSide":"left"}
+	]
+}

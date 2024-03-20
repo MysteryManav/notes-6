@@ -1,0 +1,3 @@
+- The message is represented as a binary string
+- The key is a truly random sequence of 0's and 1's of the same length as the message
+- Also known as [[Vername Cipher]]
