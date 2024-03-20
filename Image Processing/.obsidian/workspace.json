@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2/Topics.md",
+                "file": "Chapter 1/Topics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Chapter 2/Topics.md",
+                    "file": "Chapters.md",
                     "mode": "preview",
                     "backlinks": false,
                     "source": false
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/Topics.md",
+                "file": "Chapter 1/Topics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/Topics.md",
+                "file": "Chapter 1/Topics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/Topics.md"
+                "file": "Chapter 1/Topics.md"
               }
             }
           }
@@ -209,16 +209,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "workspaces:Manage workspace layouts": false,
-      "zk-prefixer:Create new unique note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "zk-prefixer:Create new unique note": false
     }
   },
   "active": "eb62182007acccb4",
   "lastOpenFiles": [
-    "Chapter 2/Sharpening Frequency Domain Filters.md",
+    "Chapters.md",
     "Chapter 2/Topics.md",
+    "Chapter 2/Sharpening Frequency Domain Filters.md",
     "Chapter 2/Smoothing Spatial Filtering.md",
     "Chapter 2/Smoothing Frequency-Domain Filters.md",
     "Chapter 2/Sharpening Spatial Filtering.md",
@@ -236,7 +237,6 @@
     "Chapter 2/Spatial Filters.md",
     "Chapter 2/Sharpening Spatial Filters.md",
     "Chapter 2/Smooting.md",
-    "Chapters.md",
     "Chapter 2/Histogram Processing.md",
     "Excalidraw/Histogram.excalidraw.md",
     "Chapter 2/Piece-Wise Linear Transformations.md",
