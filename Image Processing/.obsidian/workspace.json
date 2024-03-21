@@ -4,77 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "32743b1c03891a05",
+        "id": "2c1981ccb7866ce3",
         "type": "tabs",
-        "dimension": 73.1638418079096,
         "children": [
           {
-            "id": "eb62182007acccb4",
+            "id": "8c4a89df32b1a500",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 1/Topics.md",
-                "mode": "source",
+                "file": "Chapter 2/Topics.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "faad01ab51e858ae",
-        "type": "split",
-        "dimension": 26.836158192090398,
-        "children": [
-          {
-            "id": "2c1981ccb7866ce3",
-            "type": "tabs",
-            "dimension": 68.5785536159601,
-            "children": [
-              {
-                "id": "8c4a89df32b1a500",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Chapters.md",
-                    "mode": "preview",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
           },
           {
-            "id": "104e0c7ae9560afa",
-            "type": "tabs",
-            "dimension": 31.421446384039903,
-            "children": [
-              {
-                "id": "ce6bf069c2615238",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              },
-              {
-                "id": "248a491ee3ec40d8",
-                "type": "leaf",
-                "state": {
-                  "type": "kanban",
-                  "state": {
-                    "file": "Progress.md"
-                  }
-                }
-              }
-            ]
+            "id": "ce6bf069c2615238",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 1/Topics.md",
+                "file": "Chapter 2/Topics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 1/Topics.md",
+                "file": "Chapter 2/Topics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 1/Topics.md"
+                "file": "Chapter 2/Topics.md"
               }
             }
           }
@@ -215,39 +169,39 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "eb62182007acccb4",
+  "active": "8c4a89df32b1a500",
   "lastOpenFiles": [
-    "Chapters.md",
+    "Chapter 2/Histogram Processing.md",
     "Chapter 2/Topics.md",
-    "Chapter 2/Sharpening Frequency Domain Filters.md",
+    "Chapter 2/Spatial Filtering.md",
+    "Chapter 1/Logical Operations.md",
     "Chapter 2/Smoothing Spatial Filtering.md",
+    "Chapter 2/Piece-Wise Linear Transformations.md",
+    "Chapter 2/Bit Plane Slicing.md",
+    "Chapter 2/Graylevel Slicing.md",
+    "Chapter 2/Contrast Stretching.md",
+    "Chapter 2/Basic Intensity Level Transformations.md",
+    "Chapter 2/Basic Gray Level Transformations.md",
+    "Excalidraw/Gray.excalidraw.md",
+    "Chapters.md",
+    "Chapter 1/Topics.md",
+    "Chapter 1/Light and Electro-Magnetic Spectrum.md",
+    "Chapter 1/Human Eye.md",
+    "Chapter 1/Fundamental Steps in D.I.P.canvas",
+    "Chapter 1/Components of Image Processing.canvas",
+    "Chapter 2/Sharpening Frequency Domain Filters.md",
     "Chapter 2/Smoothing Frequency-Domain Filters.md",
     "Chapter 2/Sharpening Spatial Filtering.md",
     "Excalidraw/Sharpening Filters.excalidraw.md",
-    "Chapter 2/Spatial Filtering.md",
     "Excalidraw/Mask.excalidraw.md",
     "Excalidraw/Part of an image.excalidraw.md",
     "Excalidraw/Neigbours.excalidraw.md",
     "Excalidraw/Mask Operation.excalidraw.md",
-    "Excalidraw/Gray.excalidraw.md",
     "Excalidraw/Global.excalidraw.md",
     "Excalidraw/Contrast Strecthing 1.excalidraw.md",
-    "Excalidraw/Contrast Stretching 2.excalidraw.md",
-    "Excalidraw/Contrast Stretching 3.excalidraw.md",
-    "Chapter 2/Spatial Filters.md",
-    "Chapter 2/Sharpening Spatial Filters.md",
-    "Chapter 2/Smooting.md",
-    "Chapter 2/Histogram Processing.md",
-    "Excalidraw/Histogram.excalidraw.md",
-    "Chapter 2/Piece-Wise Linear Transformations.md",
-    "Chapter 2/Bit Plane Slicing.md",
-    "Chapter 2/Graylevel Slicing.md",
-    "Excalidraw/Graylevel Slicing.excalidraw.md",
     "Pasted image 20240320183111.png",
     "Pasted image 20240320183003.png",
     "Pasted image 20240320182817.png",
-    "Chapter 1/Fundamental Steps in D.I.P.canvas",
-    "Chapter 1/Components of Image Processing.canvas",
     "Pasted image 20240320093235.png",
     "Excalidraw",
     "Excalidraw/Scripts/Downloaded/Set Font Family.svg",

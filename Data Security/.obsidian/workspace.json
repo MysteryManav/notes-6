@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "2c1981ccb7866ce3",
+        "id": "2b8e32802d42ccea",
         "type": "tabs",
         "children": [
           {
@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters.md",
+                "file": "Chapter 1/Topics.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -24,11 +24,17 @@
             "id": "ce6bf069c2615238",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 2/Hill Cipher.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters.md",
+                "file": "Chapter 2/Hill Cipher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapters.md",
+                "file": "Chapter 2/Hill Cipher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapters.md"
+                "file": "Chapter 2/Hill Cipher.md"
               }
             }
           }
@@ -169,14 +175,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "8c4a89df32b1a500",
+  "active": "ce6bf069c2615238",
   "lastOpenFiles": [
+    "Chapter 1/Topics.md",
+    "Chapter 1/Data Integrity.md",
+    "Chapter 1/Introduction - Security Services.md",
+    "Chapter 1/Release of message contents.md",
     "Chapters.md",
     "Progress.md",
     "Chapter 1/Fundamental Steps in D.I.P.canvas",
     "Excalidraw/Intensity.excalidraw.md",
     "Chapter 1/Fundamental Steps in D.I.P.md",
-    "Chapter 1/Topics.md",
     "Chapter 1/Introduction and Applications.md",
     "Chapter 2/Basic Intensity Level Transformations.md",
     "Excalidraw/Point Operation.md",
@@ -197,8 +206,6 @@
     "Excalidraw",
     "Excalidraw/Drawing 2024-03-18 21.11.29.excalidraw.md",
     "Excalidraw/Drawing 2024-03-18 21.11.11.excalidraw.md",
-    "Chapter 3/Topics.md",
-    "Chapter 7/Topics.md",
     "Excalidraw/Scripts/Downloaded/Set Font Family.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",

@@ -7,10 +7,10 @@
 		{"id":"3c817663529cb1f8","type":"text","text":"Image Display","x":-625,"y":-260,"width":250,"height":60},
 		{"id":"3023255f513f736d","type":"text","text":"Mass Storage","x":385,"y":-260,"width":250,"height":60},
 		{"id":"cf4b3fd02c95063f","type":"file","file":"Chapter 1/Components of Image Processing.md","subpath":"#Image Sensor","x":-195,"y":380,"width":400,"height":400},
-		{"id":"35510e93aa665f96","type":"file","file":"Chapter 1/Components of Image Processing.md","subpath":"#Software and Mass Storage","x":760,"y":-260,"width":400,"height":400},
+		{"id":"35510e93aa665f96","type":"file","file":"Chapter 1/Components of Image Processing.md","subpath":"#Software and Mass Storage","x":760,"y":-260,"width":440,"height":440},
 		{"id":"a165d4e5f045cf98","type":"text","text":"I.P Software","x":260,"y":-40,"width":250,"height":60},
-		{"id":"5631e0f33ec27047","x":-625,"y":-400,"width":1260,"height":50,"type":"text","text":"# Network"},
-		{"id":"c47f47b8233fe34c","x":-500,"y":220,"width":250,"height":60,"type":"text","text":"Problem Domain"}
+		{"id":"5631e0f33ec27047","type":"text","text":"# Network","x":-625,"y":-400,"width":1260,"height":50},
+		{"id":"c47f47b8233fe34c","type":"text","text":"Problem Domain","x":-500,"y":220,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"b2ebfea8b06e4d58","fromNode":"204395a81e6fe499","fromSide":"bottom","toNode":"c08c652514b0a154","toSide":"top"},
