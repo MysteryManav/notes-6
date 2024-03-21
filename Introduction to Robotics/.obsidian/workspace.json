@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6029a2b20a8478e1",
@@ -163,11 +162,11 @@
   },
   "active": "eb62182007acccb4",
   "lastOpenFiles": [
+    "Chapter 1/Topics.md",
+    "Chapters.md",
     "Chapter 2/Topics.md",
     "Chapter 2/Grippers and its types.md",
     "Chapter 2/Actuators and its types.md",
-    "Chapters.md",
-    "Chapter 1/Topics.md",
     "Chapter 1/Need of Automation.md",
     "Chapter 1/Application of Robotics.md",
     "Chapter 1/Classification of Robotic Systems.md",
