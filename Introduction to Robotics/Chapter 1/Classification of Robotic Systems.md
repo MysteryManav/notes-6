@@ -1,0 +1,4 @@
+- **Fixed-Sequence Robot**: A device that performs the successive stages of a task according to a pre-determined, unchanging method that is hard to modify
+- **Playback Robot**: A human operator performs a task manually by leading the robot, which records the motions for later playback. The robot repeats the same motions according to the recorded information
+- **Numerical-Control Robot**: The operator supplies the robot with a movement program rather than teaching it the task manually
+- **Intelligent Robot**: A robot with the means to understand its environment and the ability to successfully complete a task despite changes in the surrounding conditions under which it is to be performed
