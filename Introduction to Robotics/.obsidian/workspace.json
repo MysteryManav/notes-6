@@ -11,13 +11,8 @@
             "id": "eb62182007acccb4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapters.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -105,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Chapters.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -162,36 +153,35 @@
   },
   "active": "eb62182007acccb4",
   "lastOpenFiles": [
-    "Chapter 1/Topics.md",
+    "Untitled.md",
     "Chapters.md",
     "Chapter 2/Topics.md",
     "Chapter 2/Grippers and its types.md",
     "Chapter 2/Actuators and its types.md",
-    "Chapter 1/Need of Automation.md",
-    "Chapter 1/Application of Robotics.md",
-    "Chapter 1/Classification of Robotic Systems.md",
+    "Chapter 2",
+    "Chapter 1/Topics.md",
+    "Chapter 1/Three Laws of Robotics.md",
     "Chapter 1/Robot Programming.md",
     "Chapter 1/Robot Characteristics.md",
-    "Chapter 1/Elements of Robotic Systems.md",
-    "Chapter 1/Three Laws of Robotics.md",
+    "Chapter 1/Need of Automation.md",
     "Chapter 1/Introduction to Robotics.md",
-    "Untitled.md",
+    "Chapter 1/Elements of Robotic Systems.md",
+    "Chapter 1/Classification of Robotic Systems.md",
+    "Chapter 1/Basic Concepts of Robotics.md",
+    "Chapter 1/Application of Robotics.md",
+    "Chapter 1",
+    "Welcome.md",
     "Untitled 1.md",
     "Excalidraw/Drawing 2024-03-21 20.44.06.excalidraw.md",
     "Excalidraw",
-    "Chapter 2",
     "Untitled 2.md",
-    "Chapter 1/Basic Concepts of Robotics.md",
     "Chapter 1Introduction to Robotics.md",
-    "Chapter 1",
     "Progress.md",
     "Chapter 1/Fundamental Steps in D.I.P.canvas",
     "Excalidraw/Intensity.excalidraw.md",
     "Chapter 1/Fundamental Steps in D.I.P.md",
     "Chapter 1/Introduction and Applications.md",
     "Chapter 2/Basic Intensity Level Transformations.md",
-    "Excalidraw/Point Operation.md",
-    "Chapter 2/Sharpening Spatial Filters.md",
     "Chapter 1/Components of Image Processing.canvas",
     "Excalidraw/Scripts/Downloaded/Set Font Family.svg",
     "Excalidraw/Scripts/Downloaded",
