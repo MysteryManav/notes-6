@@ -24,3 +24,9 @@
 | -------------------------------------------------------------------------------------- | ------------------------------------- |
 | [[Chapter 2/Smoothing Frequency-Domain Filters\|Smoothing-Frequency-Domain Filters]]   | <font style="color:green">DONE</font> |
 | [[Chapter 2/Sharpening Frequency Domain Filters\|Sharpening Frequency Domain Filters]] | <font style="color:green">DONE</font> |
+
+
+| Topic Name                                                       | Status                                |
+| ---------------------------------------------------------------- | ------------------------------------- |
+| [[Chapter 2/Discontinuities in Image\|Discontinuities in Image]] | <font style="color:green">DONE</font> |
+

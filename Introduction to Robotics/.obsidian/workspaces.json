@@ -169,7 +169,8 @@
                     "showSearch": false,
                     "searchQuery": "",
                     "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
+                    "unlinkedCollapsed": true,
+                    "file": "Chapters.md"
                   }
                 }
               },
@@ -180,7 +181,8 @@
                   "type": "outgoing-link",
                   "state": {
                     "linksCollapsed": false,
-                    "unlinkedCollapsed": true
+                    "unlinkedCollapsed": true,
+                    "file": "Chapters.md"
                   }
                 }
               },
@@ -189,7 +191,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {}
+                  "state": {
+                    "file": "Chapters.md"
+                  }
                 }
               }
             ],
@@ -558,5 +562,5 @@
       "mtime": "2024-03-21T16:33:49+05:30"
     }
   },
-  "active": "Notes - 2"
+  "active": "Reading"
 }
