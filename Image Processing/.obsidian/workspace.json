@@ -4,31 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "2c1981ccb7866ce3",
+        "id": "32743b1c03891a05",
         "type": "tabs",
+        "dimension": 73.77812257564003,
         "children": [
           {
-            "id": "8c4a89df32b1a500",
+            "id": "eb62182007acccb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2/Topics.md",
-                "mode": "preview",
+                "file": "Chapter 3/Inverse Filtering.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "ce6bf069c2615238",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ]
+      },
+      {
+        "id": "faad01ab51e858ae",
+        "type": "split",
+        "dimension": 26.221877424359967,
+        "children": [
+          {
+            "id": "2c1981ccb7866ce3",
+            "type": "tabs",
+            "dimension": 68.5785536159601,
+            "children": [
+              {
+                "id": "8c4a89df32b1a500",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Chapter 3/Inverse Filtering.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "104e0c7ae9560afa",
+            "type": "tabs",
+            "dimension": 31.421446384039903,
+            "children": [
+              {
+                "id": "ce6bf069c2615238",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "248a491ee3ec40d8",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "Progress.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -114,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/Topics.md",
+                "file": "Chapter 3/Inverse Filtering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/Topics.md",
+                "file": "Chapter 3/Inverse Filtering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/Topics.md"
+                "file": "Chapter 3/Inverse Filtering.md"
               }
             }
           }
@@ -171,40 +217,45 @@
   },
   "active": "8c4a89df32b1a500",
   "lastOpenFiles": [
-    "Chapter 2/Histogram Processing.md",
-    "Chapter 2/Topics.md",
-    "Chapter 2/Spatial Filtering.md",
-    "Chapter 1/Logical Operations.md",
-    "Chapter 2/Smoothing Spatial Filtering.md",
-    "Chapter 2/Piece-Wise Linear Transformations.md",
-    "Chapter 2/Bit Plane Slicing.md",
-    "Chapter 2/Graylevel Slicing.md",
-    "Chapter 2/Contrast Stretching.md",
-    "Chapter 2/Basic Intensity Level Transformations.md",
-    "Chapter 2/Basic Gray Level Transformations.md",
-    "Excalidraw/Gray.excalidraw.md",
+    "Chapter 3/Topics.md",
+    "Chapter 3/Inverse Filtering.md",
+    "Chapter 3/Estimating the degradation function.md",
+    "Chapter 3/Image Restoration using Spatial Domain Filtering.md",
+    "Chapter 3/Image Restoration using Frequency Domain Filtering.md",
     "Chapters.md",
-    "Chapter 1/Topics.md",
-    "Chapter 1/Light and Electro-Magnetic Spectrum.md",
-    "Chapter 1/Human Eye.md",
-    "Chapter 1/Fundamental Steps in D.I.P.canvas",
-    "Chapter 1/Components of Image Processing.canvas",
+    "Chapter 3/Various Noise Models.md",
+    "Excalidraw/Drawing 2024-03-22 23.02.23.excalidraw.md",
+    "Pasted image 20240322234909.png",
+    "Pasted image 20240322234414.png",
+    "Pasted image 20240322234128.png",
+    "Pasted image 20240322233733.png",
+    "Pasted image 20240322233307.png",
+    "Pasted image 20240322233057.png",
+    "Pasted image 20240322230639.png",
+    "Excalidraw/Restoration Steps.excalidraw.md",
+    "Chapter 1/Introduction.md",
+    "Chapter 7/Topics.md",
+    "Chapter 7/Region Growing Algorithm.md",
+    "Chapter 7/Thresholding.md",
+    "Excalidraw/Multi level thresholding.excalidraw.md",
+    "Excalidraw/Single level thresholding.excalidraw.md",
+    "Excalidraw/Multi-Modal.excalidraw.md",
+    "Excalidraw/Bimodal.excalidraw.md",
+    "Excalidraw/Unimodal.excalidraw.md",
+    "Chapter 7/Detection of Discontinuities.md",
+    "Chapter 7/Introduction.md",
+    "Chapter 2/Topics.md",
+    "Chapter 2/Discontinuities in Image.md",
     "Chapter 2/Sharpening Frequency Domain Filters.md",
     "Chapter 2/Smoothing Frequency-Domain Filters.md",
     "Chapter 2/Sharpening Spatial Filtering.md",
-    "Excalidraw/Sharpening Filters.excalidraw.md",
-    "Excalidraw/Mask.excalidraw.md",
-    "Excalidraw/Part of an image.excalidraw.md",
-    "Excalidraw/Neigbours.excalidraw.md",
-    "Excalidraw/Mask Operation.excalidraw.md",
-    "Excalidraw/Global.excalidraw.md",
-    "Excalidraw/Contrast Strecthing 1.excalidraw.md",
+    "Chapter 2/Smoothing Spatial Filtering.md",
+    "Chapter 1/Fundamental Steps in D.I.P.canvas",
+    "Chapter 1/Components of Image Processing.canvas",
     "Pasted image 20240320183111.png",
     "Pasted image 20240320183003.png",
     "Pasted image 20240320182817.png",
-    "Pasted image 20240320093235.png",
     "Excalidraw",
-    "Excalidraw/Scripts/Downloaded/Set Font Family.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Chapter 7",
@@ -214,11 +265,6 @@
     "Chapter 4",
     "Chapter 2/Using Artihmetic",
     "Chapter 2",
-    "Pasted image 20240317191943.png",
-    "Pasted image 20240317191920.png",
-    "Revision/Chapter 1.canvas",
-    "Pasted image 20240317184516.png",
-    "Pasted image 20240317184451.png",
-    "Pasted image 20240317182910.png"
+    "Revision/Chapter 1.canvas"
   ]
 }

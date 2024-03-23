@@ -4,32 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "2c1981ccb7866ce3",
+        "id": "32743b1c03891a05",
         "type": "tabs",
+        "dimension": 73.1638418079096,
         "children": [
           {
-            "id": "8c4a89df32b1a500",
+            "id": "eb62182007acccb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Chapters.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          }
+        ]
+      },
+      {
+        "id": "faad01ab51e858ae",
+        "type": "split",
+        "dimension": 26.836158192090398,
+        "children": [
+          {
+            "id": "2c1981ccb7866ce3",
+            "type": "tabs",
+            "dimension": 68.5785536159601,
+            "children": [
+              {
+                "id": "8c4a89df32b1a500",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Chapters.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
           },
           {
-            "id": "ce6bf069c2615238",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
+            "id": "104e0c7ae9560afa",
+            "type": "tabs",
+            "dimension": 31.421446384039903,
+            "children": [
+              {
+                "id": "ce6bf069c2615238",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "248a491ee3ec40d8",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "Progress.md"
+                  }
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -79,8 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6029a2b20a8478e1",
@@ -115,6 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chapters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chapters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +187,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Chapters.md"
+              }
             }
           }
         ],
@@ -166,10 +214,22 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "ce6bf069c2615238",
+  "active": "8c4a89df32b1a500",
   "lastOpenFiles": [
-    "Progress.md",
+    "Chapter 1/Topic.md",
     "Chapters.md",
+    "Chapter 2/Topic.md",
+    "Chapter 6/Topic.md",
+    "Chapter 6",
+    "Chapter 5/Topic.md",
+    "Chapter 5",
+    "Chapter 4/Topic.md",
+    "Chapter 4",
+    "Chapter 3/Topic.md",
+    "Chapter 3",
+    "Chapter 2",
+    "Chapter 1",
+    "Progress.md",
     "Chapter 1/Fundamental Steps in D.I.P.canvas",
     "Excalidraw/Intensity.excalidraw.md",
     "Chapter 1/Fundamental Steps in D.I.P.md",
@@ -190,22 +250,11 @@
     "Chapter 2/Spatial Domain Basics.md",
     "Excalidraw/Global.excalidraw.md",
     "Excalidraw/Mask Operation.excalidraw.md",
-    "Untitled.md",
     "Excalidraw",
-    "Excalidraw/Drawing 2024-03-18 21.11.29.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-18 21.11.11.excalidraw.md",
-    "Chapter 3/Topics.md",
-    "Chapter 7/Topics.md",
     "Excalidraw/Scripts/Downloaded/Set Font Family.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Chapter 7",
-    "Chapter 6",
-    "Chapter 5",
-    "Chapter 3",
-    "Chapter 4",
-    "Chapter 2/Using Artihmetic",
-    "Chapter 2",
     "Pasted image 20240317191943.png",
     "Pasted image 20240317191920.png",
     "Revision/Chapter 1.canvas",
