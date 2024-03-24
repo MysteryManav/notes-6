@@ -1,0 +1,3 @@
+- It is a fundamental concept in machine learning that describes the relationship between bias and variance in performance of a model
+- It represents the tradeoff between the model's ability to capture the underlying patterns in data (bias) and its sensitivity to small fluctuations or noise in training data (variance)
+- Right balance between bias and variance is crucial for building models that generalise well to unseen data and avoid overfitting and underfitting

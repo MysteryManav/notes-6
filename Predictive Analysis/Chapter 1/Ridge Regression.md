@@ -1,0 +1,10 @@
+- Also known as Tikhonov Regularisation or L2 Regularisation
+- It is regularisation technique used in linear regression to mitigate multi-collinearity(high correlation between independent variables) and reduce overfitting
+- It adds a penalty term to ordinary least squares objective function, which encourages the model to shrink the coefficients towards zero while still maintaining their predictive power
+- It is particularly useful when dealing with datasets with high dimensionality or multi-collinearity
+- Theory: Objective function is modified by adding a regularisation term, which penalises large coefficients. The regularisation term is controlled by a hyper-parameter ($\lambda$), also known as regularisation parameter, which determines the strength of regularisation. As $\lambda$ increases, the penalty for larger coefficients becomes stronger, leading to more shrinkage of coefficients towards zero
+- Equation: $${\text{minimize} \quad \text{RSS}\;+\lambda\sum_{j=1}^p\beta_j^2 }$$ where,
+	- $RSS$ => Residual sum of squares
+	- $\lambda$ => Regularisation Parameter
+	- $p$ => Number of Predictors
+	- $\beta_j$ => Regression coefficients

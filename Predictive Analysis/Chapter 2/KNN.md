@@ -1,0 +1,9 @@
+- It is a simple and versatile ML algorithm
+- It makes predictions based on majority class among the *K* nearest neighbours of a data point in the feature space
+- It is non-parametric and instance-based learning algorithm, meaning it does not make any assumptions about underlying distribution of the data and instead memorises the training instances to make predictions
+- Theory: When a new data point is to be classified, the algorithm calculates the distances between the new point and all the training points in the feature space. It then selects the K nearest neighbours based on these distances and assigns the class label to the new data point based on the majority class among its K neighbours
+- Equation (Euclidean Distance): $$d(p, q) = \sqrt{\sum_{i=1}^n(p_i - q_i)^2}$$ where, 
+	- $p$ and $q$ are vectors representing two data points
+	- $p_i$ and $q_i$ are the $i$-th components of the vectors
+	- $n$ is the number of dimensions/features
+- Applications: Recommendation Systems, Disease Classification, etc.

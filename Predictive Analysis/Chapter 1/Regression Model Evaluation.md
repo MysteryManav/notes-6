@@ -1,0 +1,7 @@
+- It is the process of assessing the performance and reliability of a regression model in predicting the dependent variable based on one or more independent variables
+- It involves comparing model's predictions with actual observed values to determine how well model fits data and whether it can be trusted for making accurate predictions
+- It involves various techniques and metrics to assess different aspects of the model's performance. Some of the most common are:
+	1. **Mean Squared Error (M.S.E)**: Measures the average squared difference between the actual and predicted values of the dependent variable. It provides a measure of the accuracy of the model's predictive accuracy, with lower values indicating better performance
+	2. **Root Mean Squared Error (R.M.S.E)**: It is the square root of the M.S.E and represents the standard deviation of the residuals. It provides a measure of model's predictive accuracy in the original units of dependent values
+	3. **R-Squared (R2) Coefficient**: It measures proportions of variance in dependent variable that is explained by independent variables in regression model. It ranges from 0 to 1, with higher values indicating a better fit of model to the data
+- It is a crucial step in model-building process, helping analysts and decision-makers understand the strengths and limitations of regression models and make informed decisions about their use in practical applications

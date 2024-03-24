@@ -1,0 +1,9 @@
+- A statistical method used to measure the relationship between two or more independent variables (features) and a dependent variable (target)
+- It extends the concept of simple linear regression by considering multiple predictors to estimate the value of the dependent variable
+- Equation: $$Y = \beta_0 + \beta_1X_1 + \beta_2X_2 + \dots + \beta_pX_p + \epsilon$$ where,
+	- $Y$ => Dependent Variable
+	- $X_1, X_2, \dots, X_p$ => Independent Variables
+	- $\beta_0$ => Intercept (Constant)
+	- $\beta_1, \beta_2, \dots, \beta_p$ => Coefficients (parameters) representing relationship between independent variables and dependent variable
+	- $\epsilon$ => Error term representing the difference between observed and predicted values
+- Applications: Predicting GDP growth based on multiple factors, Estimating sale revenue based on strategy, demographics, advertising, etc.

@@ -1,0 +1,5 @@
+- A mathematical or computational representation of data that summarises or describes its key characteristics, patterns and relationships
+- They focus on providing insights into existing data to help understand its structure, behaviour and underlying trends
+- Commonly used for Exploratory Data Analysis, Visualisation, Summarisation
+- They aim to uncover meaningful patterns and relationships within data through various statistical, graphical and computational techniques
+- Examples: Customer Segmentation, Market Basket Analysis, etc.

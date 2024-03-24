@@ -1,0 +1,6 @@
+- It is a statistical method used for binary classification tasks, where the dependent variable (target) is categorical and has two possible outcomes
+- Despite its name, logistic regression is a **classification** algorithm and not a regression one
+- It models the probability of the binary outcome as a function of one or more independent variables using the logistic function, also known as sigmoid function
+- Theory: Logistic function is used to model the relationship between the independent variables and the probability of the binary outcome. The logistic function maps any real-valued input to range $[0, 1]$, which is suitable for representing probabilities. The logistic regression model estimates the coefficients of the independent variables that maximise the likelihood of observing the given binary outcomes
+- Equation: $$P(z) = \frac{1}{1+e^{-z}}$$ where, $z$ is the linear combination of the independent variables and their coefficients
+- Applications: Disease Prediction, Loan Default, etc.

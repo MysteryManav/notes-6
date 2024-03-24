@@ -1,0 +1,10 @@
+- Support Vector Machine (SVM) is a powerful supervised machine learning algorithm used for classification tasks
+- It is effective for both linearly separable and non-separable datasets by finding the optimal hyperplane that best separates the classes while maximising the margin between them
+- They work well in high-dimensional spaces and are particularly useful for binary classification but can also be extended to handle multi-class classification problem
+- Theory: It aims to find the hyperplane that maximises the margin between the classes in feature space. The optimal hyperplane is selected based on support vectors, which are the data points closest to the decision boundary. They use a kernel function to transform the input features into a higher-dimensional space, allowing for non-linear decision boundaries
+- Equation (Hyperplane): $$w^Tx + b = 0$$ where,
+	- $w$ => Weight Vector
+	- $x$ => Input Feature Vector
+	- $b$ => Bias Term
+- Equation (Margin Calculation): $$\text{Margin} = \frac{2}{\lvert\lvert w\rvert\rvert}$$ where, $\lvert\lvert w\rvert\rvert$ is the Euclidean norm of the weight vector
+- Applications: Spam Detection, Disease Classification, Predicting Stock Price Movements, etc.

@@ -1,0 +1,11 @@
+- It is a probabilistic machine learning algorithm used for classification tasks
+- It is based on Bayes' theorem, which describes the probability of a hypothesis given the evidence
+- Despite its simplicity and "naive" assumption of feature independence, the Naive Bayes Classifier is often surprisingly effective, particularly for text classification tasks such as spam detection and document categorisation
+- Theory: It is based on the assumption of feature independence, which means that the presence of a particular feature in a class is independent of presence of other features
+- Equation (Bayes' Theorem): $$P(Y \vert X) = \frac{P(X\vert Y)\times P(Y)}{P(X)}$$
+- Equation (Naive Bayes Classifier): $$\hat y = argmax_y(P(Y=y)\Pi_{i=1}^nP(X_i=x\vert Y=y)$$ where,
+	- $\hat y$ => predicted class
+	- $P(Y = y)$ => prior probability of class $y$
+	- $P(X_i = x \vert Y = y)$ => Conditional Probability of predictor $X_i$ having value $x_i$ given class $y_i$
+	- $n$ => Number of predictors (features)
+- Applications: Spam Detection, Recommendation Systems, etc.

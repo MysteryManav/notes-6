@@ -1,0 +1,11 @@
+- Stands for Least Absolute Shrinkage and Selection Operator
+- Also known as L1 Regularisation
+- It is a regularisation technique used in linear regression to select a subset of important features and reduce the complexity of the model
+- It also adds a penalty term to the ordinary least square objective function, but is uses L1 norm penalty not L2
+- It encourages sparsity in coefficient estimates by shrinking some coefficients to exactly zero, effectively performing feature selection
+- Theory: Objective function is modified by adding a penalty term that is proportional to the sum of absolute values of regression coefficients. This penalty encourages sparsity in the coefficient estimates, effectively setting some coefficients to zero and eliminating irrelevant features from model. The strength of regularisation is controlled by a hyperparameter ($\lambda$)
+- Equation: $$\text{minimize}\quad\text{RSS}\;+\;\lambda\sum_{j=1}^p\lvert\beta_j\rvert$$ where, 
+	- $RSS$ => Residual Sum of Squares
+	- $\lambda$ => Regularisation Parameter
+	- $p$ => Number of Predictors or features
+	- $\beta_j$ => Regression Coefficients

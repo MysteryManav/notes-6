@@ -1,0 +1,12 @@
+- SVM can also be used for regression tasks
+- It aims to find the function that best fits the training data rather than discrete class labels
+- It aims to find the function that best fits the training data while minimising the prediction error, typically by maximising the margin between the predicted values and a specified value, known as epsilon-insensitive zone
+- Theory: It aims to find a hyperplane that captures as many data points as possible within a specified margin of error $\epsilon$, while still minimising the error for the remaining data points
+- Equation (Objective Function): $$\text{minimize} \frac{1}{2}\lvert\lvert w\rvert\rvert^2 + C\sum_{i=1}^n(\xi_i + \xi_i^*)$$  $$\text{subject to}:\begin{cases}y_i - <w, \phi(x_i)> - b \le \epsilon + \xi_i \\\\<w, \phi(x_i)> + b - y_i \le \epsilon + \xi_i^*\\\\\xi_i, \xi_i^* \ge 0\end{cases}$$ where, 
+	- $w$ => Weight Vector
+	- $b$ => Bias Term
+	- $\xi_i$ and $\xi_i^*$ => Slack Variables
+	- $C$ => the regularisation parameter
+	- $\epsilon$ =>Width of epsilon-insensitive zone
+	- $\phi(x_i)$ => Feature Vector mapped to a higher-dimensional space
+- Applications: Stock Price Forecasting, Temperature Prediction, House Price Prediction, etc.
