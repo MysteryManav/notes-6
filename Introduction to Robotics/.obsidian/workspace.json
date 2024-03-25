@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 4/Kinematics.md",
+                "file": "Chapters.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 4/Kinematics.md",
+                "file": "Chapters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 4/Kinematics.md",
+                "file": "Chapters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 4/Kinematics.md"
+                "file": "Chapters.md"
               }
             }
           }
@@ -163,8 +163,8 @@
   },
   "active": "eb62182007acccb4",
   "lastOpenFiles": [
-    "Chapter 4/Kinematics.md",
     "Chapter 4/Topics.md",
+    "Chapter 4/Kinematics.md",
     "Chapters.md",
     "Pasted image 20240324180942.png",
     "Pasted image 20240324174419.png",
