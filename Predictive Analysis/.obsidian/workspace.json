@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6029a2b20a8478e1",
@@ -164,11 +163,11 @@
   "active": "eb62182007acccb4",
   "lastOpenFiles": [
     "Chapter 3/Topics.md",
+    "Chapters.md",
     "Chapter 3/Bootstrapping.md",
     "Chapter 3/Holdout Method and K-Fold Cross Validation.md",
     "Chapter 3/Bias-Variance Tradeoff.md",
     "Chapter 3/Bias Variance and Model Complexity.md",
-    "Chapters.md",
     "Chapter 2/Topics.md",
     "Chapter 2/KNN.md",
     "Chapter 2/SVM for Regression.md",
