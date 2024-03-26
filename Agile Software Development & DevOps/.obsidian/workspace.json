@@ -6,15 +6,14 @@
       {
         "id": "32743b1c03891a05",
         "type": "tabs",
-        "dimension": 73.1638418079096,
         "children": [
           {
-            "id": "eb62182007acccb4",
+            "id": "7926f4d5d7133f8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters.md",
+                "file": "Chapter 4/Topic.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -22,59 +21,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "faad01ab51e858ae",
-        "type": "split",
-        "dimension": 26.836158192090398,
-        "children": [
-          {
-            "id": "2c1981ccb7866ce3",
-            "type": "tabs",
-            "dimension": 68.5785536159601,
-            "children": [
-              {
-                "id": "8c4a89df32b1a500",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Chapters.md",
-                    "mode": "preview",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "104e0c7ae9560afa",
-            "type": "tabs",
-            "dimension": 31.421446384039903,
-            "children": [
-              {
-                "id": "ce6bf069c2615238",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              },
-              {
-                "id": "248a491ee3ec40d8",
-                "type": "leaf",
-                "state": {
-                  "type": "kanban",
-                  "state": {
-                    "file": "Progress.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -160,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters.md",
+                "file": "Chapter 4/Topic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapters.md",
+                "file": "Chapter 4/Topic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapters.md"
+                "file": "Chapter 4/Topic.md"
               }
             }
           }
@@ -215,42 +161,42 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "eb62182007acccb4",
+  "active": "7926f4d5d7133f8a",
   "lastOpenFiles": [
-    "Chapter 4/Topic.md",
     "Chapters.md",
     "Chapter 2/Topic.md",
+    "Chapter 2/UX Design.md",
+    "Chapter 2/Progress Tracking.md",
+    "Chapter 2/Project Forecasting.md",
+    "Chapter 2/Agile Forecasting and Project Management.md",
+    "Chapter 2/Velocity.md",
+    "Chapter 2/Extreme Programming.md",
+    "Chapter 2/Kanban.md",
+    "Chapter 2/Test Driven Development.md",
+    "Chapter 2/Adaptive Software Development.md",
+    "Chapter 2/Feature Driven Development.md",
+    "Chapter 2/Crystal.md",
+    "Chapter 2/SCRUM.md",
+    "Chapter 2/Lean Production.md",
+    "Untitled 1.md",
     "Chapter 1/Topic.md",
-    "Chapter 1/A Layered Technology.md",
-    "Chapter 6/Topic.md",
+    "Chapter 1/Capabilities and Values.md",
+    "Chapter 1/Agile Drivers.md",
+    "Progress.md",
+    "Chapter 1/Team Meetings and Ceremonies.md",
+    "Chapter 1/Agile Teams.md",
+    "Chapter 1/Agile Manifesto and Principles.md",
+    "Chapter 1/Classification of Agile Methods.md",
+    "Chapter 1/Traditional vs Agile Model.md",
+    "Chapter 1/Component Based Development.md",
     "Chapter 6",
-    "Chapter 5/Topic.md",
     "Chapter 5",
     "Chapter 4",
-    "Chapter 3/Topic.md",
     "Chapter 3",
     "Chapter 2",
     "Chapter 1",
-    "Progress.md",
     "Chapter 1/Fundamental Steps in D.I.P.canvas",
-    "Excalidraw/Intensity.excalidraw.md",
-    "Chapter 1/Fundamental Steps in D.I.P.md",
-    "Chapter 1/Topics.md",
-    "Chapter 1/Introduction and Applications.md",
-    "Chapter 2/Basic Intensity Level Transformations.md",
-    "Excalidraw/Point Operation.md",
-    "Chapter 2/Sharpening Spatial Filters.md",
-    "Chapter 2/Sharpening Frequency Domain Filters.md",
-    "Chapter 2/Introduction to Fouries Transform and Frequency Domain Concepts.md",
-    "Chapter 2/Introduction.md",
-    "Chapter 2/Basic Gray Level Transformations.md",
-    "Excalidraw/Gray.excalidraw.md",
-    "Chapter 1/Light and Electro-Magnetic Spectrum.md",
-    "Chapter 1/Human Eye.md",
     "Chapter 1/Components of Image Processing.canvas",
-    "Chapter 2/Topics.md",
-    "Chapter 2/Spatial Domain Basics.md",
-    "Excalidraw/Global.excalidraw.md",
     "Excalidraw",
     "Excalidraw/Scripts/Downloaded/Set Font Family.svg",
     "Excalidraw/Scripts/Downloaded",

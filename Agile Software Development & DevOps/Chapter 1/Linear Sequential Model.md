@@ -1,0 +1,8 @@
+- Also called life cycle/waterfall model/software development life cycle
+- This model suggests a sequential approach to software development that begins at the level of system
+- A linear process flow executes each of the five framework activities such as:
+	- Information/System Engineering and Modelling
+	- Design
+	- Code Generation
+	- Testing
+	- Support

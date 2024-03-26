@@ -1,0 +1,10 @@
+
+| Traditional Model                                                                                  | Agile Model                                                                                                                      |
+| -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Follows a top down approach and making changes is not easy as finishing one phase leads to another | Team conducts experiments on various techniques and gradually arrives at best possible solution                                  |
+| It has a leadership style of working                                                               | In agile, there is free flow of communication, anyone can present their ideas within the team                                    |
+| Pre-planning is done to carry out the various phases                                               | This is more flexible as compared to traditional model, as it can change its workflow based on any new request for modifications |
+| Customer is involved only in initial phases of requirement gathering                               | Customer involvement is crucial for this model to prove its mettle                                                               |
+| Project plan is prepared before commencing the process of system development                       | Project work is delivered to the client in small amount                                                                          |
+| The ownership lies on the project manager                                                          | It has the concept of shared ownership, i.e., every team member is equally responsible for their individual contribution         |
+| Believes in one-time delivery of the product                                                       | Relies on incremental delivery of the product                                                                                    |

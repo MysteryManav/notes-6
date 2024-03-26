@@ -1,0 +1,16 @@
+- It is a metric that measures how much work an agile team can deliver in a given timeframe. It's also known as throughput
+	- The rate at which our team can deliver is a key agile metric, known as velocity
+	- It is a useful tool for teams to use internally, not necessarily to use for external determinations
+	- Agile Velocity Formula
+		- To calculate velocity of a sprint, we need to know:
+			- How many user stories the team has to complete
+			- The number of points that a user story is worth
+		- Then look at number of stories completed and add up the points
+- Benefits of velocity in agile:
+	- Help project managers determine how much work they can complete in a sprint
+	- Accurate indicator of a unique team's progress
+	- Determine the number of sprints that will be needed for the project and how much time each sprint needs
+- Common pitfalls of velocity in Agile:
+	- Cannot be considered a surefire way to budget or forecast with a project
+	- Comparison between different teams and their performance
+	- Requires very careful and consistent estimations throughout

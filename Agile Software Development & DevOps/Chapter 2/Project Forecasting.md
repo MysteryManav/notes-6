@@ -1,0 +1,12 @@
+### Project Forecasting
+- It is a process that helps you predict the future of your projects. It involves analysing historical data and resources available to make assumptions about project success
+- In other words, project forecasting answers the question what it takes to deliver a successful project and how to reduce risk
+- 8 steps to improved project forecasting
+	- Get Organised
+	- Use a combination of historical data and a forecasting tool
+	- Create many forecasts, not one
+	- Get to know your resources better
+	- Schedule in buffer time
+	- Clearly communicate project forecasts
+	- Track each project's performance
+	- Review each project after its completion

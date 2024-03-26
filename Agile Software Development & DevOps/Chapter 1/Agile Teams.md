@@ -1,0 +1,7 @@
+- An Agile team is a group of employees, contractors or freelancers responsible for executing an agile project
+- Agile teams are typically co-located and often wholly dedicated to the project during its timeline, with no obligations to other projects
+- An Agile team needs every person required to produce the end product or service. The team is typically cross-functional and roles will vary depending on project's needs and types of agile framework chosen
+- For instance, when using a Scrum framework, an Agile team should have a Scrum master, a product owner, and any other required team members
+- The Scrum master oversees the project, facilitates collaboration, and organises the daily meetings
+- The product owner is responsible for ensuring the end product meets the requirements of the customer
+- Subject matter experts and other stakeholders may provide input into the project as needed, but they're not typically considered part of the agile team

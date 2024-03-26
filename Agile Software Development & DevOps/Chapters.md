@@ -1,8 +1,8 @@
 
 | Chapter Name                   | Status                                  |
 | ------------------------------ | --------------------------------------- |
-| [[Chapter 1/Topic\|Chapter 1]] | <font style="color:yellow">DOING</font> |
-| [[Chapter 2/Topic\|Chapter 2]] | <font style="color:yellow">DOING</font> |
+| [[Chapter 1/Topic\|Chapter 1]] | <font style="color:green">DONE</font>   |
+| [[Chapter 2/Topic\|Chapter 2]] | <font style="color:green">DONE</font>   |
 | [[Chapter 3/Topic\|Chapter 3]] | <font style="color:orange">TODO</font>  |
 | [[Chapter 4/Topic\|Chapter 4]] | <font style="color:yellow">DOING</font> |
 | [[Chapter 5/Topic\|Chapter 5]] | <font style="color:orange">TODO</font>  |

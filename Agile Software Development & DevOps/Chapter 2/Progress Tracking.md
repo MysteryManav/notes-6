@@ -1,0 +1,37 @@
+- Tracking Project Progress in 7 steps:
+	- Project tracking is a method we can use to measure the overall progress of a project from the time we plan it until your team finishes it
+	- Tracking the progress of a project allows us to track the projected progress against the actual progress being made
+	- It's a useful strategy to ensure the project management team is completing their tasks on time
+	- Tracking the progress of a project management team is completing their tasks on time
+	- Four reasons tracking project progress is important:
+		- Project Success
+		- More Manageable Goals
+		- Time Management
+		- Accountability
+	- 7 steps to track progress:
+		- Establish a project outline
+		- Create measurable goals
+		- Establish clear deadlines
+		- Collect data
+		- Use a kanban board
+		- Adjust expectation
+		- Check in regularly
+- Tips for tracking project progress:
+	- Plan for risks
+	- Keep a visual aid
+	- Offer assistance to your team
+	- Create a reward system
+	- Keep a journal
+
+### Project Management
+- It is the application of processes, methods, skills, knowledge and experience to achieve specific project objectives according to the project acceptance criteria within agreed parameters
+- Project management has final deliverables that are constraint to a finite timescale and budget
+- 5 stages of project management:
+	- Initiation
+	- Planning
+	- Execution
+	- Monitoring and Control
+	- Closure
+- What is a project deliverable ?
+	- A project deliverable is any specific output element that's a result of deliberate work done during the project
+	- A deliverable must be within the scope of the project and it should have a definite role in accomplishing the project's objectives
