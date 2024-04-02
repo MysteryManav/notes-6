@@ -1,6 +1,6 @@
 - It is also known as Reverse Filtering
 - Inverse Filtering in Image Processing is done to remove the blur and noise available so that we can restore the image with higher accuracy compared to the original one
-- We know $G(u, v) H(u, v) \cdot F(u, v) + N(u, v)$, to obtain, $F(u, v)$, we can write $$F(u, v) = \frac{G(u, v)}{H(u, v)} - \frac{N(u, v)}{H(u, v)}$$
+- We know $G(u, v) = H(u, v) \cdot F(u, v) + N(u, v)$, to obtain, $F(u, v)$, we can write $$F(u, v) = \frac{G(u, v)}{H(u, v)} - \frac{N(u, v)}{H(u, v)}$$
 - If noise is zero, and we have full knowledge about the blur or degradation, we directly use *"De-Convolution"* to obtain $F(u, v)$ (un-degraded image)
 - If noise is present, and $H(u, v) \approx 0$, this means $N(u, v) \approx \infty$. Hence, inverse filtering is not a good choice for un-degraded image. Therefore, we will use *'Wiener'* Filter
 
