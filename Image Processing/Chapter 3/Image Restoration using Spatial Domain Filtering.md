@@ -42,7 +42,7 @@
 	3. $m_L$ => Local mean of the pixels in the neighbourhood $S_{xy}$
 	4. $\sigma_L^2$ => Local variance of the pixel in the neighbourhood $S_{xy}$
 $$
-f(x, y) = g(x, y) - \frac{\sigma_n^2}{\sigma_L}\left[ g(x, y) - m_L\right]
+f(x, y) = g(x, y) - \frac{\sigma_n^2}{\sigma_L^2}\left[ g(x, y) - m_L\right]
 $$
 - **Adaptive Median Filter**: The median filter works only when the noise is not large, i.e., $P_a$ and $P_b$ is less than 0.2 
 	- Adaptive Median Filter handles the impulse noise of larger values
@@ -65,9 +65,9 @@ $$
 & \text{else} \\
 & \quad\text{Increase Window Size} \\
 & \quad\text{if window} \le S_{max} \\
-& \quad\text{repeat level A} \\
-& \text{else} \\
-& \quad\text{Output} = z_{xy}
+& \quad\quad\text{repeat level A} \\
+& \quad\text{else} \\
+& \quad\quad\text{Output} = z_{xy}
 \end{align*}
 \end{cases} \\
 \qquad\qquad\quad\text{Level B}
